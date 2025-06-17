@@ -1,0 +1,12 @@
+Flask
+flask-cors
+librosa
+numpy
+python_speech_features
+gammatone
+soundfile
+pydub
+praat-parselmouth
+scipy
+openai-whisper
+torch

@@ -10,3 +10,5 @@ praat-parselmouth
 scipy
 openai-whisper
 torch
+noisereduce
+matplotlib
